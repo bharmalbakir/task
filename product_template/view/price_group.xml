@@ -1,0 +1,17 @@
+<!--<odoo>-->
+
+    <!-- Purchase Order Line Form View -->
+<!--    <record id="view_purchase_order_line_form_inherited" model="ir.ui.view">-->
+<!--        <field name="name">purchase.order.line.form.inherited</field>-->
+<!--        <field name="model">purchase.order.line</field>-->
+<!--        <field name="inherit_id" ref="purchase.view_purchase_order_line_form"/>-->
+<!--        <field name="arch" type="xml">-->
+<!--            <xpath expr="//field[@name='product_qty']" position="before">-->
+<!--                <field name="category_id" string="Category"/>-->
+<!--                <field name="brand_id" string="Brand"/>-->
+<!--                <field name="model_id" string="Model"/>-->
+<!--                <field name="price_group_id" string="Price Group"/>-->
+<!--            </xpath>-->
+<!--        </field>-->
+<!--    </record>-->
+<!--</odoo>-->
